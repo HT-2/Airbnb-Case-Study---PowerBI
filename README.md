@@ -1,6 +1,6 @@
 # Airbnb-Case-Study-PowerBI
 
-Developed a PowerBI dashboard to understand booking patterns and customer behavior for a newly introduced coupon code. 
+Developed PowerBI dashboards to understand booking patterns and customer behavior for a newly introduced coupon code. 
 Below are the screenshots of the PowerBI report
 ![Screenshot 2024-08-09 132333](https://github.com/user-attachments/assets/9dd0604a-3cc7-4426-bda6-3ed01c826e2d)
 
